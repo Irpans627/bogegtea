@@ -24,4 +24,13 @@
     "eslint": "^8",
     "eslint-config-next": "14.1.0"
   }
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Irpans627/bogegtea/issues"
+  },
+  "homepage": "https://github.com/Irpans627/bogegtea#readme"
 }
+}
+
